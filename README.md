@@ -14,16 +14,19 @@
 ## Projects
 
 - 🕙 FCC APIs and Microservices Projects - Build a Timestamp Microservice
-  - https://timestramp.glitch.me/  
+  - [Link para o projeto online](https://timestramp.glitch.me/)
+  - [Código fonte](https://github.com/FelipeTiberio/apis-microservices-fcc/tree/master/timestramp)  
 
 - ✂️ FCC APIs and Microservices Projects - Build URL Shortener Microservice  
-  - https://projeto1-shorturll.glitch.me/
+  - [Link para o projeto online](https://projeto1-shorturll.glitch.me/)
+  - [Código fonte](https://github.com/FelipeTiberio/apis-microservices-fcc/tree/master/shorttener)
 
 - 🔍 FCC APIs and Microservices Projects - Build Request Header Parser Microservice
-  - https://req-header-ap.glitch.me/
-
+  - [Link para o projeto online](https://req-header-ap.glitch.me/)
+  - [Código fonte](https://github.com/FelipeTiberio/apis-microservices-fcc/tree/master/req-header-parser)
 - 🏃 FCC APIs and Microservices Projects - Build a Exercise Tracker
-  - https://projeto-5-fcc-beckend.glitch.me/
+  - [Link para o projeto online](https://projeto-5-fcc-beckend.glitch.me/)
+  - [Código fonte]()
 
 - 📁 FCC APIs and Microservices Projects - Build File Metadata Microservice
   - https://meta-data-pj5.glitch.me/
